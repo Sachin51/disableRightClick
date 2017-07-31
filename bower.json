@@ -1,0 +1,26 @@
+{
+  "name": "disablerightclick",
+  "authors": [
+    "Sachin Kumar <ska261291@gmail.com>"
+  ],
+  "description": "Used to disable right click in the project.",
+  "main": "js/disable-right-click.js",
+  "keywords": [
+    "disable",
+    "right",
+    "click",
+    "right-click"
+  ],
+  "dependencies": {
+    "angular": "^1.6.4"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/Sachin51",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
