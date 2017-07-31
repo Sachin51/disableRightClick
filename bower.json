@@ -5,7 +5,7 @@
   ],
   "version": "0.1.0",
   "description": "Used to disable right click in the project.",
-  "main": "js/disable-right-click.js",
+  "main": "js/disableRightClick.min.js",
   "keywords": [
     "disable",
     "right",
@@ -16,7 +16,7 @@
     "angular": "^1.6.4"
   },
   "license": "MIT",
-  "homepage": "https://github.com/Sachin51",
+  "homepage": "https://github.com/Sachin51/disableRightClick",
   "ignore": [
     "**/.*",
     "node_modules",
