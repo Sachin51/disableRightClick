@@ -5,7 +5,7 @@
   ],
   "version": "0.4.0",
   "description": "Used to disable right click in the project.",
-  "main": "js/disableRightClick.min.js",
+  "main": "dist/disableRightClick.min.js",
   "keywords": [
     "disable",
     "right",
