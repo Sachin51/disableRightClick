@@ -1,4 +1,7 @@
-angular.module('disable.right.click').directive('disableRightClick', function() {  
+(function(){
+angular.module('disable.right.click',[])
+    
+.directive('disableRightClick', function() {  
     return {  
         restrict: 'A',  
         link: function(scope, element, attr) {  
@@ -8,3 +11,4 @@ angular.module('disable.right.click').directive('disableRightClick', function() 
         }  
     }  
 })  
+})
