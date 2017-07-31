@@ -3,7 +3,7 @@
   "authors": [
     "Sachin Kumar <ska261291@gmail.com>"
   ],
-  "version": "0.1.0",
+  "version": "0.4.0",
   "description": "Used to disable right click in the project.",
   "main": "js/disableRightClick.min.js",
   "keywords": [
